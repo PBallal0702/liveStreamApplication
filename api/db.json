@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "a",
+      "description": "b",
+      "id": 1
+    },
+    {
+      "title": "a",
+      "description": "b",
+      "id": 2
+    },
+    {
+      "title": "testing",
+      "description": "testing desc",
+      "id": 3
+    },
+    {
+      "title": "this is testing for id",
+      "description": "id should be present in redux",
+      "userId": "115775948577433776984",
+      "id": 4
+    },
+    {
+      "title": "tesingkdf",
+      "description": "edit delete",
+      "userId": "115775948577433776984",
+      "id": 5
+    },
+    {
+      "title": "vggb",
+      "description": "grbvgbg",
+      "userId": "115775948577433776984",
+      "id": 6
+    },
+    {
+      "title": "testing my new strinm ",
+      "description": "code refactor",
+      "userId": "115775948577433776984",
+      "id": 7
+    },
+    {
+      "title": "stream testing",
+      "description": "now testing for edit (May be successfull)",
+      "id": 8
+    }
+  ]
+}
